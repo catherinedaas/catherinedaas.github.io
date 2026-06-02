@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-Catherine is pursuing a master's degree in computer science through the CS@Mines Bridge program after transitioning from clinical practice as a physical therapist. Her current research through the DREAM scholarship focuses on machine learning, rehabilitation technology, and a balance-board-based robotic feedback system.
+My name is Catherine Daas, and I am pursuing a master’s degree in computer science through the CS@Mines Bridge program after transitioning from clinical practice as a physical therapist. My background in orthopedics and age related care has shaped my interest in using technology to address clinical problems. Through the DREAM scholarship, my current research focuses on machine learning, rehabilitation technology, and a balance-board-based robotic feedback system. I am especially interested in how new developments in computer science can contribute to meaningful healthcare solutions.
 
 ## About My Advisor
 
