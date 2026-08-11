@@ -3,7 +3,7 @@ layout: post
 title: Week 3
 ---
 
-Week three, June 15-19
+Week 3, June 15-19
 
 This week was slightly shorter due to family obligations, but progress was still made. The distributions of the experimental data were visualized to better understand what methods would be appropriate for determining preliminary norms.
 
