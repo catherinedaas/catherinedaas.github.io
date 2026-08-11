@@ -1,1 +1,13 @@
 
+---
+layout: post
+title: Week 7
+---
+
+Week 7, July 13 - July 17
+
+Big refactor happening this week. I am trying to reorganize the metric_norms project with a clearer separation of concerns. The idea is to have a plotstyle.py file that controls color-blind-friendly formatting and high-resolution saved images for access independent of program runs. There should be a group_stats.py file that holds all of the math, including anything related to normality testing, testing differences between central tendencies, and OLS regression for fitting the scatterplots. There should be one file that handles plotting, an I/O manager, a config file that controls the many different options with data of this type, and a main file that orchestrates it all. Eventually there will be a README.
+
+It is a lot easier to think about this project if I keep the idea that we are not predicting, we are describing, at the forefront. The foundation of this project is not using all of the variance from the combined data to predict overall fall risk. This project is trying to describe what low fall risk looks like. To do that, we need to know how to describe the data. Is it normal? Could it be made normal with a log transform? Which features might be important for clinical use? Should the features be looked at using all participants, since no one had an injurious fall or medical diagnosis that could impact balance, or should they be split into their naturally occurring groups based on functional balance testing? There are a few options available, and things are not clear at this time.
+
+Of course, this is all very challenging because I am new to literally every aspect of scientific coding and shared repos. 
