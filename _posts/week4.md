@@ -3,7 +3,7 @@ layout: post
 title: Week 4
 ---
 
-Week four, June 22–26 
+Week 4, June 22–26 
 
 This week felt like a true start to the program. This involved an early reorganization of the code to create a centrally managed plotting standard. The real driver of this decision was the need for uniform figure editing and saving. I am certain that if this is not centrally managed, there will continue to be small but frustrating differences between figures that limit my ability to easily compare, revise, and present them.
 
